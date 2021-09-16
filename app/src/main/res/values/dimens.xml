@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_button_width">131dp</dimen>
+    <dimen name="notification_button_text">20sp</dimen>
+    <dimen name="notification_button_marginTop">143dp</dimen>
+</resources>
